@@ -3,6 +3,11 @@
 	display:flex;
 	align-items:left;
 }
+.hero>img{
+	width:400px;
+	height:200px;
+	object-fit:cover;
+}
 .hero>h5{
 	display:inline;
 }
