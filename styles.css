@@ -1,6 +1,14 @@
 /*  your css code here. If applicable */
 .hero{
-	display:justify-content;
+	display:flex;
 	align-items:left;
-
+}
+.hero>h5{
+	display:inline;
+}
+.hero>button{
+	background-color:red;
+	color:white;
+	padding:1px;
+	border-radius:25px;
 }
